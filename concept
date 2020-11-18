@@ -11,3 +11,5 @@ if n == 2:
 	print(n)
 else:
 	print(False)
+	
+## reset should be done
