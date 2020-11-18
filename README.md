@@ -7,3 +7,5 @@ A new fancy check is done.
 
 Here you will find how to calculate the stiffness matrix of 
 a crystal.
+
+A 6x6 compliance matrix can be written as S_ijkl = (a_im) * (a_jn) * (a_ko) * (a_lp) * S_mnop
