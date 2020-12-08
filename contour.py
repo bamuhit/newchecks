@@ -13,9 +13,9 @@ Created on Tue Dec  8 00:05:14 2020
 import numpy as np
 import matplotlib.pyplot as plt
 
-''' Define a function for 2D '''
+''' Define a function Sin and Cosine on 2D '''
 def f(x, y):
-    return np.cos(x) + np.sin(y)
+    return np.cos(x) ** 2 + np.sin(y) ** 2
 
 
 x = np.linspace(0, 5, 200)
